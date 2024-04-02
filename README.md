@@ -2,8 +2,8 @@
 Cuộc thi AI4LIFE 2024 - Trường Đại học Bách Khoa - Đại học Đà Nẵng
 
 ## Tổ chức dữ liệu ##
-Thư mục dữ liệu huấn luyện đầu vào <a href="https://drive.google.com/drive/folders/18mfPELuFfHY4KfwOmPod-z1-AhrKNRrN?usp=drive_link"> ở đây <br>
-Thư mục kiểm thử <a href="https://drive.google.com/drive/folders/1nc8jGLMToDnxdOsA5Vh0k0UFepmjZ5JV?usp=drive_link"> ở đây <br>
+Thư mục dữ liệu huấn luyện đầu vào <a href="https://drive.google.com/drive/folders/18mfPELuFfHY4KfwOmPod-z1-AhrKNRrN?usp=drive_link"> ở đây </a> <br>
+Thư mục kiểm thử <a href="https://drive.google.com/drive/folders/1nc8jGLMToDnxdOsA5Vh0k0UFepmjZ5JV?usp=drive_link"> ở đây </a> <br>
 Dữ liệu huấn luyện được tổ chức ở dạng cây thư mục /Directory/label/video.mp4
 </br>
 /Directory
