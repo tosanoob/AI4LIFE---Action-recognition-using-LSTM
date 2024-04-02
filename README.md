@@ -30,6 +30,7 @@ Với mỗi video đầu vào, nhóm chúng tôi sử dụng Mediapipe để nh�
 ## Mô hình ##
 Dưới đây là kiến trúc mô hình cho kết quả cao nhất cho đến hiện tại trên dữ liệu kiểm thử: đạt accuracy 82% và F1_score 0.8 trên từng video.
 ![image](https://github.com/tosanoob/AI4LIFE---Action-recognition-using-LSTM/assets/89732559/dad98729-32f3-45c3-a91f-25721d0cdc0e)
+<br>
 Mô hình mạng LSTM được xây dựng bằng Keras 3.0.2, Tensorflow 2.16.1
 ## Nhận xét & phát triển ##
 Việc chỉ xét đến yếu tố vị trí khung xương có thể gây nhầm lẫn giữa các động tác có tư thế gần giống nhau. Ví dụ hai động tác lat pulldown và lateral raise có motion giống nhau gần như hoàn toàn, chỉ khác biệt ở xu hướng dùng lực kéo xuống và đẩy lên.
